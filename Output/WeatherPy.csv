@@ -1,0 +1,501 @@
+base_url,city,citycountry,cloudiness,country,humidity,lat,lng,temp,wind speed
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cabo san lucas,mx&APPID=658432372d775e19d42e7c70280b22af",cabo san lucas,cabo san lucasmx,5,mx,21,15,-114,33.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hofn,is&APPID=658432372d775e19d42e7c70280b22af",hofn,hofnis,90,is,87,60,-14,10.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=itoman,jp&APPID=658432372d775e19d42e7c70280b22af",itoman,itomanjp,1,jp,83,24,128,27.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kapaa,us&APPID=658432372d775e19d42e7c70280b22af",kapaa,kapaaus,90,us,94,37,-162,24.0,9.8
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=arraial do cabo,br&APPID=658432372d775e19d42e7c70280b22af",arraial do cabo,arraial do cabobr,75,br,78,-26,-37,24.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tuktoyaktuk,ca&APPID=658432372d775e19d42e7c70280b22af",tuktoyaktuk,tuktoyaktukca,40,ca,80,83,-122,1.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chuy,uy&APPID=658432372d775e19d42e7c70280b22af",chuy,chuyuy,36,uy,74,-65,-23,21.29,6.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rikitea,pf&APPID=658432372d775e19d42e7c70280b22af",rikitea,rikiteapf,20,pf,100,-36,-138,23.64,3.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kodiak,us&APPID=658432372d775e19d42e7c70280b22af",kodiak,kodiakus,1,us,78,47,-151,22.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dikson,ru&APPID=658432372d775e19d42e7c70280b22af",dikson,diksonru,56,ru,99,84,88,-1.61,1.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vao,nc&APPID=658432372d775e19d42e7c70280b22af",vao,vaonc,48,nc,100,-29,167,22.29,4.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=carnarvon,au&APPID=658432372d775e19d42e7c70280b22af",carnarvon,carnarvonau,0,au,95,-30,98,20.29,1.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hithadhoo,mv&APPID=658432372d775e19d42e7c70280b22af",hithadhoo,hithadhoomv,24,mv,100,-21,83,28.39,6.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=busselton,au&APPID=658432372d775e19d42e7c70280b22af",busselton,busseltonau,24,au,100,-35,100,18.19,7.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bluff,nz&APPID=658432372d775e19d42e7c70280b22af",bluff,bluffnz,8,nz,100,-69,156,6.29,2.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jumla,np&APPID=658432372d775e19d42e7c70280b22af",jumla,jumlanp,24,np,90,31,83,2.29,1.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kavaratti,in&APPID=658432372d775e19d42e7c70280b22af",kavaratti,kavarattiin,92,in,100,11,66,25.34,8.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=khatanga,ru&APPID=658432372d775e19d42e7c70280b22af",khatanga,khatangaru,80,ru,91,83,94,4.54,4.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=zhigansk,ru&APPID=658432372d775e19d42e7c70280b22af",zhigansk,zhiganskru,68,ru,68,73,122,5.44,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=atasu,kz&APPID=658432372d775e19d42e7c70280b22af",atasu,atasukz,64,kz,69,47,70,8.14,6.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=broome,au&APPID=658432372d775e19d42e7c70280b22af",broome,broomeau,40,au,82,-15,120,20.0,2.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=eydhafushi,mv&APPID=658432372d775e19d42e7c70280b22af",eydhafushi,eydhafushimv,32,mv,97,5,71,29.29,9.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lazaro cardenas,mx&APPID=658432372d775e19d42e7c70280b22af",lazaro cardenas,lazaro cardenasmx,5,mx,20,4,-110,31.0,2.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bethel,us&APPID=658432372d775e19d42e7c70280b22af",bethel,bethelus,90,us,87,55,-165,6.0,6.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tilichiki,ru&APPID=658432372d775e19d42e7c70280b22af",tilichiki,tilichikiru,12,ru,96,59,168,-1.86,1.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=new norfolk,au&APPID=658432372d775e19d42e7c70280b22af",new norfolk,new norfolkau,40,au,75,-57,138,7.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gizo,sb&APPID=658432372d775e19d42e7c70280b22af",gizo,gizosb,68,sb,100,-9,158,27.64,6.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=butaritari,ki&APPID=658432372d775e19d42e7c70280b22af",butaritari,butaritariki,76,ki,100,24,163,28.54,5.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hamilton,bm&APPID=658432372d775e19d42e7c70280b22af",hamilton,hamiltonbm,90,bm,83,31,-70,25.0,9.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jamestown,sh&APPID=658432372d775e19d42e7c70280b22af",jamestown,jamestownsh,20,sh,100,-36,-4,22.64,9.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=provideniya,ru&APPID=658432372d775e19d42e7c70280b22af",provideniya,provideniyaru,88,ru,90,63,-177,0.34,5.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=stephenville,ca&APPID=658432372d775e19d42e7c70280b22af",stephenville,stephenvilleca,20,ca,90,49,-59,7.0,10.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=phan thiet,vn&APPID=658432372d775e19d42e7c70280b22af",phan thiet,phan thietvn,76,vn,89,9,109,29.29,3.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=thompson,ca&APPID=658432372d775e19d42e7c70280b22af",thompson,thompsonca,40,ca,51,69,-102,15.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ajdabiya,ly&APPID=658432372d775e19d42e7c70280b22af",ajdabiya,ajdabiyaly,0,ly,15,31,19,38.14,2.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mar del plata,ar&APPID=658432372d775e19d42e7c70280b22af",mar del plata,mar del plataar,0,ar,85,-61,-32,2.34,3.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ribeira grande,pt&APPID=658432372d775e19d42e7c70280b22af",ribeira grande,ribeira grandept,40,pt,72,30,-38,19.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kazachinskoye,ru&APPID=658432372d775e19d42e7c70280b22af",kazachinskoye,kazachinskoyeru,0,ru,57,58,94,14.94,3.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=albany,au&APPID=658432372d775e19d42e7c70280b22af",albany,albanyau,44,au,53,-62,103,12.14,4.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=atuona,pf&APPID=658432372d775e19d42e7c70280b22af",atuona,atuonapf,0,pf,100,-2,-144,26.39,8.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fecamp,fr&APPID=658432372d775e19d42e7c70280b22af",fecamp,fecampfr,0,fr,60,50,0,23.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ambanja,mg&APPID=658432372d775e19d42e7c70280b22af",ambanja,ambanjamg,0,mg,62,-13,48,24.89,1.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hambantota,lk&APPID=658432372d775e19d42e7c70280b22af",hambantota,hambantotalk,32,lk,92,1,87,28.89,7.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mahebourg,mu&APPID=658432372d775e19d42e7c70280b22af",mahebourg,mahebourgmu,40,mu,78,-32,68,23.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san jose,gt&APPID=658432372d775e19d42e7c70280b22af",san jose,san josegt,8,gt,99,11,-92,27.29,1.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mitu,co&APPID=658432372d775e19d42e7c70280b22af",mitu,mituco,8,co,89,1,-70,26.54,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=birnin kebbi,ng&APPID=658432372d775e19d42e7c70280b22af",birnin kebbi,birnin kebbing,0,ng,67,13,4,34.39,3.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=port elizabeth,za&APPID=658432372d775e19d42e7c70280b22af",port elizabeth,port elizabethza,0,za,62,-48,28,15.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ushuaia,ar&APPID=658432372d775e19d42e7c70280b22af",ushuaia,ushuaiaar,75,ar,65,-84,-46,6.0,12.9
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=elko,us&APPID=658432372d775e19d42e7c70280b22af",elko,elkous,75,us,59,40,-116,17.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=yelizovo,ru&APPID=658432372d775e19d42e7c70280b22af",yelizovo,yelizovoru,0,ru,81,53,158,6.0,2.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=boone,us&APPID=658432372d775e19d42e7c70280b22af",boone,booneus,90,us,100,42,-94,27.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chokurdakh,ru&APPID=658432372d775e19d42e7c70280b22af",chokurdakh,chokurdakhru,76,ru,87,79,144,-3.11,1.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=labytnangi,ru&APPID=658432372d775e19d42e7c70280b22af",labytnangi,labytnangiru,64,ru,94,69,67,-0.61,6.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=khonsa,in&APPID=658432372d775e19d42e7c70280b22af",khonsa,khonsain,32,in,96,26,96,19.39,0.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=port hardy,ca&APPID=658432372d775e19d42e7c70280b22af",port hardy,port hardyca,75,ca,66,50,-128,10.0,1.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=anchorage,us&APPID=658432372d775e19d42e7c70280b22af",anchorage,anchorageus,90,us,70,64,-152,10.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dolores,ar&APPID=658432372d775e19d42e7c70280b22af",dolores,doloresar,80,ar,99,-37,-56,13.84,5.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=saint-joseph,re&APPID=658432372d775e19d42e7c70280b22af",saint-joseph,saint-josephre,75,re,69,-26,56,23.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=qaanaaq,gl&APPID=658432372d775e19d42e7c70280b22af",qaanaaq,qaanaaqgl,76,gl,100,89,-81,-1.96,2.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=avarua,ck&APPID=658432372d775e19d42e7c70280b22af",avarua,avaruack,75,ck,88,-25,-160,26.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=norman wells,ca&APPID=658432372d775e19d42e7c70280b22af",norman wells,norman wellsca,20,ca,48,66,-127,7.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=amga,ru&APPID=658432372d775e19d42e7c70280b22af",amga,amgaru,64,ru,71,60,133,5.94,1.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lagoa,pt&APPID=658432372d775e19d42e7c70280b22af",lagoa,lagoapt,40,pt,77,46,-26,19.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=punta arenas,cl&APPID=658432372d775e19d42e7c70280b22af",punta arenas,punta arenascl,75,cl,96,-72,-110,5.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=faanui,pf&APPID=658432372d775e19d42e7c70280b22af",faanui,faanuipf,0,pf,100,0,-158,27.34,7.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hearst,ca&APPID=658432372d775e19d42e7c70280b22af",hearst,hearstca,12,ca,60,52,-85,24.29,2.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=alofi,nu&APPID=658432372d775e19d42e7c70280b22af",alofi,alofinu,88,nu,100,-25,-169,23.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=boden,se&APPID=658432372d775e19d42e7c70280b22af",boden,bodense,0,se,25,67,22,19.0,5.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=namibe,ao&APPID=658432372d775e19d42e7c70280b22af",namibe,namibeao,0,ao,100,-13,7,22.24,4.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vanavara,ru&APPID=658432372d775e19d42e7c70280b22af",vanavara,vanavararu,0,ru,74,63,104,10.49,1.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=karratha,au&APPID=658432372d775e19d42e7c70280b22af",karratha,karrathaau,0,au,51,-16,112,15.89,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=biak,id&APPID=658432372d775e19d42e7c70280b22af",biak,biakid,92,id,100,2,138,23.14,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ljungby,se&APPID=658432372d775e19d42e7c70280b22af",ljungby,ljungbyse,0,se,34,57,14,27.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=aswan,eg&APPID=658432372d775e19d42e7c70280b22af",aswan,aswaneg,0,eg,12,25,34,37.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nobres,br&APPID=658432372d775e19d42e7c70280b22af",nobres,nobresbr,0,br,55,-15,-56,30.64,4.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=castro,cl&APPID=658432372d775e19d42e7c70280b22af",castro,castrocl,0,cl,89,-52,-106,5.99,4.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=marquette,us&APPID=658432372d775e19d42e7c70280b22af",marquette,marquetteus,5,us,57,47,-88,26.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cape town,za&APPID=658432372d775e19d42e7c70280b22af",cape town,cape townza,40,za,67,-64,-13,16.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sao felix do xingu,br&APPID=658432372d775e19d42e7c70280b22af",sao felix do xingu,sao felix do xingubr,68,br,48,-6,-54,31.94,2.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=baruun-urt,mn&APPID=658432372d775e19d42e7c70280b22af",baruun-urt,baruun-urtmn,0,mn,37,48,114,15.39,4.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=coquimbo,cl&APPID=658432372d775e19d42e7c70280b22af",coquimbo,coquimbocl,75,cl,93,-29,-72,14.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=virginia beach,us&APPID=658432372d775e19d42e7c70280b22af",virginia beach,virginia beachus,75,us,83,35,-72,29.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=yumen,cn&APPID=658432372d775e19d42e7c70280b22af",yumen,yumencn,48,cn,18,36,93,19.79,4.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=anadyr,ru&APPID=658432372d775e19d42e7c70280b22af",anadyr,anadyrru,90,ru,100,64,177,1.0,5.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lompoc,us&APPID=658432372d775e19d42e7c70280b22af",lompoc,lompocus,90,us,93,26,-125,15.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lorengau,pg&APPID=658432372d775e19d42e7c70280b22af",lorengau,lorengaupg,56,pg,100,1,144,27.74,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=geraldton,au&APPID=658432372d775e19d42e7c70280b22af",geraldton,geraldtonau,0,au,76,-29,110,13.0,5.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chuguyevka,ru&APPID=658432372d775e19d42e7c70280b22af",chuguyevka,chuguyevkaru,92,ru,97,44,134,11.59,1.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=soe,id&APPID=658432372d775e19d42e7c70280b22af",soe,soeid,0,id,91,-10,124,17.54,0.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mbandaka,cd&APPID=658432372d775e19d42e7c70280b22af",mbandaka,mbandakacd,32,cd,61,0,19,30.44,0.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=marsaxlokk,mt&APPID=658432372d775e19d42e7c70280b22af",marsaxlokk,marsaxlokkmt,20,mt,69,35,16,25.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vrangel,ru&APPID=658432372d775e19d42e7c70280b22af",vrangel,vrangelru,20,ru,97,40,133,9.69,2.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=formosa,br&APPID=658432372d775e19d42e7c70280b22af",formosa,formosabr,32,br,68,-15,-47,22.49,4.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pacific grove,us&APPID=658432372d775e19d42e7c70280b22af",pacific grove,pacific groveus,90,us,76,30,-132,14.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kamaishi,jp&APPID=658432372d775e19d42e7c70280b22af",kamaishi,kamaishijp,92,jp,85,36,147,15.79,3.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chiusi,it&APPID=658432372d775e19d42e7c70280b22af",chiusi,chiusiit,75,it,60,43,12,25.0,6.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san cristobal,ec&APPID=658432372d775e19d42e7c70280b22af",san cristobal,san cristobalec,24,ec,98,-5,-88,20.04,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mount gambier,au&APPID=658432372d775e19d42e7c70280b22af",mount gambier,mount gambierau,12,au,77,-40,137,11.39,2.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hirara,jp&APPID=658432372d775e19d42e7c70280b22af",hirara,hirarajp,32,jp,94,22,128,28.94,3.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kutum,sd&APPID=658432372d775e19d42e7c70280b22af",kutum,kutumsd,76,sd,28,17,25,33.04,1.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=itarema,br&APPID=658432372d775e19d42e7c70280b22af",itarema,itaremabr,0,br,68,7,-38,30.74,5.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kavieng,pg&APPID=658432372d775e19d42e7c70280b22af",kavieng,kaviengpg,56,pg,100,8,158,27.99,1.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hobart,au&APPID=658432372d775e19d42e7c70280b22af",hobart,hobartau,40,au,75,-78,145,7.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=colorado springs,us&APPID=658432372d775e19d42e7c70280b22af",colorado springs,colorado springsus,1,us,49,39,-105,22.0,7.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hermanus,za&APPID=658432372d775e19d42e7c70280b22af",hermanus,hermanusza,56,za,79,-62,2,13.14,3.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=barrow,us&APPID=658432372d775e19d42e7c70280b22af",barrow,barrowus,75,us,83,75,-151,28.0,1.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=puerto ayora,ec&APPID=658432372d775e19d42e7c70280b22af",puerto ayora,puerto ayoraec,20,ec,65,-1,-106,27.0,6.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fuling,cn&APPID=658432372d775e19d42e7c70280b22af",fuling,fulingcn,92,cn,95,30,107,17.24,1.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=papetoai,pf&APPID=658432372d775e19d42e7c70280b22af",papetoai,papetoaipf,40,pf,73,-17,-150,24.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=petropavlovsk-kamchatskiy,ru&APPID=658432372d775e19d42e7c70280b22af",petropavlovsk-kamchatskiy,petropavlovsk-kamchatskiyru,0,ru,81,48,164,6.0,2.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ilulissat,gl&APPID=658432372d775e19d42e7c70280b22af",ilulissat,ilulissatgl,75,gl,60,88,-39,4.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=east london,za&APPID=658432372d775e19d42e7c70280b22af",east london,east londonza,0,za,63,-69,54,17.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ancud,cl&APPID=658432372d775e19d42e7c70280b22af",ancud,ancudcl,0,cl,86,-41,-100,6.64,3.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chiang khong,th&APPID=658432372d775e19d42e7c70280b22af",chiang khong,chiang khongth,40,th,100,20,101,25.0,1.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=yellowknife,ca&APPID=658432372d775e19d42e7c70280b22af",yellowknife,yellowknifeca,20,ca,48,64,-117,4.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sur,om&APPID=658432372d775e19d42e7c70280b22af",sur,surom,0,om,73,21,60,33.14,3.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chibombo,zm&APPID=658432372d775e19d42e7c70280b22af",chibombo,chibombozm,0,zm,30,-15,28,24.74,2.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=touros,br&APPID=658432372d775e19d42e7c70280b22af",touros,tourosbr,20,br,64,-5,-35,30.14,8.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tucupita,ve&APPID=658432372d775e19d42e7c70280b22af",tucupita,tucupitave,64,ve,88,9,-61,25.99,2.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=semnan,ir&APPID=658432372d775e19d42e7c70280b22af",semnan,semnanir,24,ir,22,35,54,29.29,1.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=paamiut,gl&APPID=658432372d775e19d42e7c70280b22af",paamiut,paamiutgl,88,gl,100,61,-52,1.89,9.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=katsuura,jp&APPID=658432372d775e19d42e7c70280b22af",katsuura,katsuurajp,75,jp,93,23,151,19.0,1.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tayshet,ru&APPID=658432372d775e19d42e7c70280b22af",tayshet,tayshetru,0,ru,45,56,98,14.79,2.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=talnakh,ru&APPID=658432372d775e19d42e7c70280b22af",talnakh,talnakhru,92,ru,98,80,89,0.04,2.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bredasdorp,za&APPID=658432372d775e19d42e7c70280b22af",bredasdorp,bredasdorpza,56,za,67,-67,21,15.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rehoboth,na&APPID=658432372d775e19d42e7c70280b22af",rehoboth,rehobothna,8,na,30,-24,17,19.24,8.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=zvishavane,zw&APPID=658432372d775e19d42e7c70280b22af",zvishavane,zvishavanezw,12,zw,32,-21,30,24.04,2.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ballina,ie&APPID=658432372d775e19d42e7c70280b22af",ballina,ballinaie,40,ie,60,58,-12,21.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kurilsk,ru&APPID=658432372d775e19d42e7c70280b22af",kurilsk,kurilskru,80,ru,92,45,148,8.84,4.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=constitucion,mx&APPID=658432372d775e19d42e7c70280b22af",constitucion,constitucionmx,5,mx,33,14,-127,25.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=esperance,au&APPID=658432372d775e19d42e7c70280b22af",esperance,esperanceau,48,au,48,-40,122,13.14,6.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=wattegama,lk&APPID=658432372d775e19d42e7c70280b22af",wattegama,wattegamalk,100,lk,92,5,84,24.04,3.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mondlo,za&APPID=658432372d775e19d42e7c70280b22af",mondlo,mondloza,0,za,36,-28,31,15.49,2.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=leshukonskoye,ru&APPID=658432372d775e19d42e7c70280b22af",leshukonskoye,leshukonskoyeru,56,ru,53,65,45,4.74,5.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=malanville,bj&APPID=658432372d775e19d42e7c70280b22af",malanville,malanvillebj,8,bj,63,12,3,35.29,2.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=grand island,us&APPID=658432372d775e19d42e7c70280b22af",grand island,grand islandus,1,us,69,41,-98,23.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nome,us&APPID=658432372d775e19d42e7c70280b22af",nome,nomeus,40,us,62,66,-161,32.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=victoria,sc&APPID=658432372d775e19d42e7c70280b22af",victoria,victoriasc,40,sc,78,-6,49,27.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kisesa,tz&APPID=658432372d775e19d42e7c70280b22af",kisesa,kisesatz,0,tz,55,-3,34,26.79,2.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gasa,bt&APPID=658432372d775e19d42e7c70280b22af",gasa,gasabt,32,bt,60,29,90,-5.76,0.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kangasala,fi&APPID=658432372d775e19d42e7c70280b22af",kangasala,kangasalafi,0,fi,39,62,24,19.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vaini,to&APPID=658432372d775e19d42e7c70280b22af",vaini,vainito,20,to,93,-66,-172,18.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ponta do sol,cv&APPID=658432372d775e19d42e7c70280b22af",ponta do sol,ponta do solcv,48,cv,100,18,-33,21.64,7.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=alyangula,au&APPID=658432372d775e19d42e7c70280b22af",alyangula,alyangulaau,0,au,88,-14,141,26.14,9.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mingguang,cn&APPID=658432372d775e19d42e7c70280b22af",mingguang,mingguangcn,92,cn,75,33,118,22.19,4.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=upernavik,gl&APPID=658432372d775e19d42e7c70280b22af",upernavik,upernavikgl,88,gl,93,89,-53,-0.01,1.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kuching,my&APPID=658432372d775e19d42e7c70280b22af",kuching,kuchingmy,75,my,94,4,109,26.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vila do maio,cv&APPID=658432372d775e19d42e7c70280b22af",vila do maio,vila do maiocv,20,cv,51,15,-22,27.0,6.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=udachnyy,ru&APPID=658432372d775e19d42e7c70280b22af",udachnyy,udachnyyru,36,ru,90,68,116,5.04,2.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pevek,ru&APPID=658432372d775e19d42e7c70280b22af",pevek,pevekru,12,ru,71,86,167,-2.06,3.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lappeenranta,fi&APPID=658432372d775e19d42e7c70280b22af",lappeenranta,lappeenrantafi,0,fi,42,61,28,19.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cidreira,br&APPID=658432372d775e19d42e7c70280b22af",cidreira,cidreirabr,0,br,69,-39,-38,24.49,4.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pak phanang,th&APPID=658432372d775e19d42e7c70280b22af",pak phanang,pak phanangth,32,th,100,9,101,28.79,2.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=atambua,id&APPID=658432372d775e19d42e7c70280b22af",atambua,atambuaid,0,id,100,-7,125,25.24,5.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=miri,my&APPID=658432372d775e19d42e7c70280b22af",miri,mirimy,75,my,94,7,112,26.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=saint george,bm&APPID=658432372d775e19d42e7c70280b22af",saint george,saint georgebm,90,bm,83,34,-65,25.0,9.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tucurui,br&APPID=658432372d775e19d42e7c70280b22af",tucurui,tucuruibr,20,br,69,-4,-50,30.59,1.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=palmer,us&APPID=658432372d775e19d42e7c70280b22af",palmer,palmerus,90,us,75,61,-144,10.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nortelandia,br&APPID=658432372d775e19d42e7c70280b22af",nortelandia,nortelandiabr,0,br,82,-13,-58,27.69,3.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kodinsk,ru&APPID=658432372d775e19d42e7c70280b22af",kodinsk,kodinskru,0,ru,77,60,99,11.89,1.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=souillac,mu&APPID=658432372d775e19d42e7c70280b22af",souillac,souillacmu,40,mu,78,-30,62,23.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hasaki,jp&APPID=658432372d775e19d42e7c70280b22af",hasaki,hasakijp,75,jp,93,33,149,17.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mercedes,uy&APPID=658432372d775e19d42e7c70280b22af",mercedes,mercedesuy,80,uy,100,-33,-58,15.69,8.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=veinticinco de mayo,ar&APPID=658432372d775e19d42e7c70280b22af",veinticinco de mayo,veinticinco de mayoar,32,ar,52,-36,-60,26.24,4.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cherskiy,ru&APPID=658432372d775e19d42e7c70280b22af",cherskiy,cherskiyru,8,ru,76,66,161,-1.36,2.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vilyuysk,ru&APPID=658432372d775e19d42e7c70280b22af",vilyuysk,vilyuyskru,48,ru,51,64,122,9.34,1.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=makakilo city,us&APPID=658432372d775e19d42e7c70280b22af",makakilo city,makakilo cityus,90,us,83,7,-165,25.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bandar,id&APPID=658432372d775e19d42e7c70280b22af",bandar,bandarid,68,id,97,1,100,22.89,1.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=port alfred,za&APPID=658432372d775e19d42e7c70280b22af",port alfred,port alfredza,24,za,70,-64,38,20.79,3.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=springdale,ca&APPID=658432372d775e19d42e7c70280b22af",springdale,springdaleca,68,ca,85,49,-56,2.84,14.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bereznik,ru&APPID=658432372d775e19d42e7c70280b22af",bereznik,bereznikru,36,ru,44,63,42,9.09,7.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=salalah,om&APPID=658432372d775e19d42e7c70280b22af",salalah,salalahom,20,om,83,18,55,29.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jiwani,pk&APPID=658432372d775e19d42e7c70280b22af",jiwani,jiwanipk,0,pk,52,23,62,33.79,4.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=myitkyina,mm&APPID=658432372d775e19d42e7c70280b22af",myitkyina,myitkyinamm,100,mm,99,27,98,21.59,1.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=flin flon,ca&APPID=658432372d775e19d42e7c70280b22af",flin flon,flin flonca,20,ca,48,63,-102,16.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dingle,ie&APPID=658432372d775e19d42e7c70280b22af",dingle,dingleie,32,ie,80,51,-12,17.39,3.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sistranda,no&APPID=658432372d775e19d42e7c70280b22af",sistranda,sistrandano,0,no,52,68,8,20.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cordoba,ar&APPID=658432372d775e19d42e7c70280b22af",cordoba,cordobaar,12,ar,48,-31,-64,11.69,0.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kangaatsiaq,gl&APPID=658432372d775e19d42e7c70280b22af",kangaatsiaq,kangaatsiaqgl,80,gl,88,69,-56,0.89,2.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sechura,pe&APPID=658432372d775e19d42e7c70280b22af",sechura,sechurape,24,pe,83,-7,-82,20.84,3.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pangoa,pe&APPID=658432372d775e19d42e7c70280b22af",pangoa,pangoape,8,pe,84,-12,-72,22.44,1.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=iquique,cl&APPID=658432372d775e19d42e7c70280b22af",iquique,iquiquecl,40,cl,68,-20,-73,18.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chambersburg,us&APPID=658432372d775e19d42e7c70280b22af",chambersburg,chambersburgus,75,us,61,40,-78,28.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=huancavelica,pe&APPID=658432372d775e19d42e7c70280b22af",huancavelica,huancavelicape,0,pe,30,-13,-75,10.29,1.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=georgetown,sh&APPID=658432372d775e19d42e7c70280b22af",georgetown,georgetownsh,76,sh,100,-1,-18,26.44,6.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=saint-philippe,re&APPID=658432372d775e19d42e7c70280b22af",saint-philippe,saint-philippere,75,re,64,-64,76,23.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=haines junction,ca&APPID=658432372d775e19d42e7c70280b22af",haines junction,haines junctionca,12,ca,87,56,-142,-1.51,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=caravelas,br&APPID=658432372d775e19d42e7c70280b22af",caravelas,caravelasbr,56,br,100,-20,-32,24.94,3.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=damavand,ir&APPID=658432372d775e19d42e7c70280b22af",damavand,damavandir,75,ir,36,36,52,24.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=naruja,ge&APPID=658432372d775e19d42e7c70280b22af",naruja,narujage,20,ge,78,42,42,23.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sajanan,tn&APPID=658432372d775e19d42e7c70280b22af",sajanan,sajanantn,40,tn,68,38,9,23.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lebu,cl&APPID=658432372d775e19d42e7c70280b22af",lebu,lebucl,44,cl,100,-33,-96,11.54,6.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dandong,cn&APPID=658432372d775e19d42e7c70280b22af",dandong,dandongcn,0,cn,78,39,124,14.69,2.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=porto belo,br&APPID=658432372d775e19d42e7c70280b22af",porto belo,porto belobr,40,br,73,-27,-46,24.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=otjimbingwe,na&APPID=658432372d775e19d42e7c70280b22af",otjimbingwe,otjimbingwena,0,na,68,-23,16,20.74,1.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bekhtery,ua&APPID=658432372d775e19d42e7c70280b22af",bekhtery,bekhteryua,0,ua,67,46,32,24.14,3.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=henties bay,na&APPID=658432372d775e19d42e7c70280b22af",henties bay,henties bayna,0,na,92,-23,12,16.14,5.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=moree,au&APPID=658432372d775e19d42e7c70280b22af",moree,moreeau,0,au,79,-29,147,7.29,4.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=husavik,is&APPID=658432372d775e19d42e7c70280b22af",husavik,husavikis,75,is,63,73,-13,16.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=byron bay,au&APPID=658432372d775e19d42e7c70280b22af",byron bay,byron bayau,0,au,44,-29,159,15.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ormara,pk&APPID=658432372d775e19d42e7c70280b22af",ormara,ormarapk,0,pk,48,24,64,32.04,8.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jaisalmer,in&APPID=658432372d775e19d42e7c70280b22af",jaisalmer,jaisalmerin,0,in,17,27,71,35.09,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=arlit,ne&APPID=658432372d775e19d42e7c70280b22af",arlit,arlitne,0,ne,11,21,9,42.89,5.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bauchi,ng&APPID=658432372d775e19d42e7c70280b22af",bauchi,bauching,8,ng,81,10,10,29.94,1.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=torbay,ca&APPID=658432372d775e19d42e7c70280b22af",torbay,torbayca,90,ca,100,35,-48,4.0,15.9
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vila velha,br&APPID=658432372d775e19d42e7c70280b22af",vila velha,vila velhabr,20,br,46,-29,-25,32.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=marienburg,sr&APPID=658432372d775e19d42e7c70280b22af",marienburg,marienburgsr,75,sr,66,7,-55,30.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dunedin,nz&APPID=658432372d775e19d42e7c70280b22af",dunedin,dunedinnz,0,nz,79,-47,171,-7.71,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lichtenburg,za&APPID=658432372d775e19d42e7c70280b22af",lichtenburg,lichtenburgza,0,za,17,-26,26,19.24,5.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=north myrtle beach,us&APPID=658432372d775e19d42e7c70280b22af",north myrtle beach,north myrtle beachus,1,us,88,31,-77,27.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cabrero,cl&APPID=658432372d775e19d42e7c70280b22af",cabrero,cabrerocl,90,cl,100,-37,-72,10.0,1.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gouyave,gd&APPID=658432372d775e19d42e7c70280b22af",gouyave,gouyavegd,40,gd,70,13,-63,30.0,8.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=visnes,no&APPID=658432372d775e19d42e7c70280b22af",visnes,visnesno,0,no,50,58,2,24.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tasiilaq,gl&APPID=658432372d775e19d42e7c70280b22af",tasiilaq,tasiilaqgl,75,gl,80,59,-37,5.0,1.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=longyearbyen,sj&APPID=658432372d775e19d42e7c70280b22af",longyearbyen,longyearbyensj,75,sj,97,84,16,3.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mabaruma,gy&APPID=658432372d775e19d42e7c70280b22af",mabaruma,mabarumagy,92,gy,100,8,-61,25.09,2.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cabanbanan,ph&APPID=658432372d775e19d42e7c70280b22af",cabanbanan,cabanbananph,64,ph,95,10,123,24.94,1.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=margate,za&APPID=658432372d775e19d42e7c70280b22af",margate,margateza,0,za,74,-43,41,20.99,6.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=luderitz,na&APPID=658432372d775e19d42e7c70280b22af",luderitz,luderitzna,12,na,55,-32,5,18.0,10.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tagab,af&APPID=658432372d775e19d42e7c70280b22af",tagab,tagabaf,0,af,15,35,70,25.0,7.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hilo,us&APPID=658432372d775e19d42e7c70280b22af",hilo,hilous,90,us,94,2,-159,23.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=brazzaville,cg&APPID=658432372d775e19d42e7c70280b22af",brazzaville,brazzavillecg,20,cg,74,-4,15,29.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kahului,us&APPID=658432372d775e19d42e7c70280b22af",kahului,kahuluius,75,us,83,34,-149,24.0,8.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=del rio,us&APPID=658432372d775e19d42e7c70280b22af",del rio,del rious,1,us,58,30,-102,31.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=adrar,dz&APPID=658432372d775e19d42e7c70280b22af",adrar,adrardz,0,dz,12,27,3,38.0,7.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=moose factory,ca&APPID=658432372d775e19d42e7c70280b22af",moose factory,moose factoryca,1,ca,47,55,-77,26.0,7.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=narsaq,gl&APPID=658432372d775e19d42e7c70280b22af",narsaq,narsaqgl,75,gl,70,77,-67,6.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sanghar,pk&APPID=658432372d775e19d42e7c70280b22af",sanghar,sangharpk,0,pk,24,26,69,36.64,1.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=acapulco,mx&APPID=658432372d775e19d42e7c70280b22af",acapulco,acapulcomx,5,mx,70,9,-103,30.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=camopi,gf&APPID=658432372d775e19d42e7c70280b22af",camopi,camopigf,68,gf,89,3,-53,26.39,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ternate,id&APPID=658432372d775e19d42e7c70280b22af",ternate,ternateid,100,id,100,3,128,28.04,3.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=aklavik,ca&APPID=658432372d775e19d42e7c70280b22af",aklavik,aklavikca,20,ca,46,71,-139,11.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=port augusta,au&APPID=658432372d775e19d42e7c70280b22af",port augusta,port augustaau,0,au,87,-30,139,6.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=barentu,er&APPID=658432372d775e19d42e7c70280b22af",barentu,barentuer,32,er,75,16,38,25.34,1.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lumby,ca&APPID=658432372d775e19d42e7c70280b22af",lumby,lumbyca,90,ca,54,50,-119,12.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=honningsvag,no&APPID=658432372d775e19d42e7c70280b22af",honningsvag,honningsvagno,75,no,70,80,26,6.0,6.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=manokwari,id&APPID=658432372d775e19d42e7c70280b22af",manokwari,manokwariid,92,id,100,3,134,27.29,1.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=port hedland,au&APPID=658432372d775e19d42e7c70280b22af",port hedland,port hedlandau,75,au,28,-22,120,23.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jinchang,cn&APPID=658432372d775e19d42e7c70280b22af",jinchang,jinchangcn,0,cn,33,40,104,15.19,2.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bambous virieux,mu&APPID=658432372d775e19d42e7c70280b22af",bambous virieux,bambous virieuxmu,40,mu,78,-30,73,23.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=isangel,vu&APPID=658432372d775e19d42e7c70280b22af",isangel,isangelvu,64,vu,100,-18,174,24.24,5.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sao filipe,cv&APPID=658432372d775e19d42e7c70280b22af",sao filipe,sao filipecv,0,cv,90,8,-34,23.14,7.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bathsheba,bb&APPID=658432372d775e19d42e7c70280b22af",bathsheba,bathshebabb,40,bb,66,19,-50,30.0,9.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=payson,us&APPID=658432372d775e19d42e7c70280b22af",payson,paysonus,40,us,52,34,-111,21.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fukue,jp&APPID=658432372d775e19d42e7c70280b22af",fukue,fukuejp,75,jp,93,33,127,17.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shakawe,bw&APPID=658432372d775e19d42e7c70280b22af",shakawe,shakawebw,88,bw,28,-17,22,27.74,2.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=stokmarknes,no&APPID=658432372d775e19d42e7c70280b22af",stokmarknes,stokmarknesno,20,no,57,71,14,10.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=meulaboh,id&APPID=658432372d775e19d42e7c70280b22af",meulaboh,meulabohid,68,id,100,-2,90,26.44,2.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=saint-paul,re&APPID=658432372d775e19d42e7c70280b22af",saint-paul,saint-paulre,90,re,78,-21,52,23.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=soyo,ao&APPID=658432372d775e19d42e7c70280b22af",soyo,soyoao,0,ao,63,-9,7,30.04,2.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=macrohon,ph&APPID=658432372d775e19d42e7c70280b22af",macrohon,macrohonph,76,ph,89,10,125,27.64,3.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bandarbeyla,so&APPID=658432372d775e19d42e7c70280b22af",bandarbeyla,bandarbeylaso,8,so,85,9,54,26.69,12.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=banda aceh,id&APPID=658432372d775e19d42e7c70280b22af",banda aceh,banda acehid,76,id,89,2,90,26.54,1.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=iracoubo,gf&APPID=658432372d775e19d42e7c70280b22af",iracoubo,iracoubogf,88,gf,89,14,-50,26.14,2.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=panaba,mx&APPID=658432372d775e19d42e7c70280b22af",panaba,panabamx,8,mx,83,24,-88,29.74,2.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rocha,uy&APPID=658432372d775e19d42e7c70280b22af",rocha,rochauy,88,uy,71,-39,-51,20.94,4.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kushima,jp&APPID=658432372d775e19d42e7c70280b22af",kushima,kushimajp,68,jp,100,28,135,19.54,2.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gondanglegi,id&APPID=658432372d775e19d42e7c70280b22af",gondanglegi,gondanglegiid,0,id,82,-14,112,20.84,1.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=charters towers,au&APPID=658432372d775e19d42e7c70280b22af",charters towers,charters towersau,0,au,68,-20,146,14.79,2.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=misratah,ly&APPID=658432372d775e19d42e7c70280b22af",misratah,misratahly,0,ly,66,32,16,25.89,4.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=larsnes,no&APPID=658432372d775e19d42e7c70280b22af",larsnes,larsnesno,0,no,36,65,4,27.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shimoda,jp&APPID=658432372d775e19d42e7c70280b22af",shimoda,shimodajp,92,jp,100,28,140,18.09,5.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=male,mv&APPID=658432372d775e19d42e7c70280b22af",male,malemv,75,mv,79,4,74,30.0,7.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gamba,ga&APPID=658432372d775e19d42e7c70280b22af",gamba,gambaga,0,ga,90,-9,3,26.64,5.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=thinadhoo,mv&APPID=658432372d775e19d42e7c70280b22af",thinadhoo,thinadhoomv,64,mv,100,0,70,28.54,7.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cabanas,cu&APPID=658432372d775e19d42e7c70280b22af",cabanas,cabanascu,75,cu,70,24,-83,29.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=port blair,in&APPID=658432372d775e19d42e7c70280b22af",port blair,port blairin,48,in,100,10,89,28.14,5.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=awjilah,ly&APPID=658432372d775e19d42e7c70280b22af",awjilah,awjilahly,0,ly,21,25,20,36.74,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nouadhibou,mr&APPID=658432372d775e19d42e7c70280b22af",nouadhibou,nouadhiboumr,0,mr,64,21,-18,22.0,9.8
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vardo,no&APPID=658432372d775e19d42e7c70280b22af",vardo,vardono,75,no,64,77,35,5.0,7.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=antalaha,mg&APPID=658432372d775e19d42e7c70280b22af",antalaha,antalahamg,68,mg,82,-15,52,24.44,4.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sabancuy,mx&APPID=658432372d775e19d42e7c70280b22af",sabancuy,sabancuymx,0,mx,90,19,-91,29.94,2.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rio gallegos,ar&APPID=658432372d775e19d42e7c70280b22af",rio gallegos,rio gallegosar,0,ar,59,-52,-70,3.0,9.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=talcahuano,cl&APPID=658432372d775e19d42e7c70280b22af",talcahuano,talcahuanocl,20,cl,81,-32,-82,10.0,0.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kaitangata,nz&APPID=658432372d775e19d42e7c70280b22af",kaitangata,kaitangatanz,0,nz,60,-58,172,-3.76,1.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ranong,th&APPID=658432372d775e19d42e7c70280b22af",ranong,ranongth,0,th,94,10,97,26.0,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=marawi,sd&APPID=658432372d775e19d42e7c70280b22af",marawi,marawisd,20,sd,26,17,29,37.59,2.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sorong,id&APPID=658432372d775e19d42e7c70280b22af",sorong,sorongid,92,id,100,0,130,25.94,0.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=newport,us&APPID=658432372d775e19d42e7c70280b22af",newport,newportus,1,us,64,45,-72,27.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bonavista,ca&APPID=658432372d775e19d42e7c70280b22af",bonavista,bonavistaca,88,ca,91,54,-49,4.09,16.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bol,td&APPID=658432372d775e19d42e7c70280b22af",bol,boltd,0,td,19,8,16,40.04,2.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dondo,mz&APPID=658432372d775e19d42e7c70280b22af",dondo,dondomz,20,mz,65,-19,35,26.0,2.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jasper,ca&APPID=658432372d775e19d42e7c70280b22af",jasper,jasperca,92,ca,94,53,-119,1.39,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=saldanha,za&APPID=658432372d775e19d42e7c70280b22af",saldanha,saldanhaza,76,za,77,-43,-4,16.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nynashamn,se&APPID=658432372d775e19d42e7c70280b22af",nynashamn,nynashamnse,0,se,35,59,18,23.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=birjand,ir&APPID=658432372d775e19d42e7c70280b22af",birjand,birjandir,0,ir,12,33,60,29.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=omboue,ga&APPID=658432372d775e19d42e7c70280b22af",omboue,ombouega,8,ga,100,-3,6,25.79,4.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=stellenbosch,za&APPID=658432372d775e19d42e7c70280b22af",stellenbosch,stellenboschza,20,za,76,-34,19,14.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=aksay,kz&APPID=658432372d775e19d42e7c70280b22af",aksay,aksaykz,20,kz,23,51,53,22.69,10.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kalmunai,lk&APPID=658432372d775e19d42e7c70280b22af",kalmunai,kalmunailk,12,lk,67,8,83,29.14,2.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san patricio,mx&APPID=658432372d775e19d42e7c70280b22af",san patricio,san patriciomx,40,mx,74,3,-119,30.0,1.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fare,pf&APPID=658432372d775e19d42e7c70280b22af",fare,farepf,0,pf,100,-16,-151,26.89,6.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=korcula,hr&APPID=658432372d775e19d42e7c70280b22af",korcula,korculahr,40,hr,82,43,17,20.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gairo,tz&APPID=658432372d775e19d42e7c70280b22af",gairo,gairotz,0,tz,33,-6,37,25.69,4.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nizwa,om&APPID=658432372d775e19d42e7c70280b22af",nizwa,nizwaom,100,om,20,21,55,36.79,1.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=manta,ec&APPID=658432372d775e19d42e7c70280b22af",manta,mantaec,75,ec,78,0,-84,25.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=itaituba,br&APPID=658432372d775e19d42e7c70280b22af",itaituba,itaitubabr,75,br,78,-5,-57,28.0,1.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gorontalo,id&APPID=658432372d775e19d42e7c70280b22af",gorontalo,gorontaloid,92,id,99,1,123,23.29,0.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tuatapere,nz&APPID=658432372d775e19d42e7c70280b22af",tuatapere,tuataperenz,0,nz,100,-47,159,3.94,3.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=aguimes,es&APPID=658432372d775e19d42e7c70280b22af",aguimes,aguimeses,75,es,73,26,-15,21.0,11.8
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chicama,pe&APPID=658432372d775e19d42e7c70280b22af",chicama,chicamape,90,pe,88,-14,-89,18.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=college,us&APPID=658432372d775e19d42e7c70280b22af",college,collegeus,40,us,71,75,-146,11.0,4.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=richards bay,za&APPID=658432372d775e19d42e7c70280b22af",richards bay,richards bayza,0,za,87,-31,36,19.14,2.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=inhambane,mz&APPID=658432372d775e19d42e7c70280b22af",inhambane,inhambanemz,75,mz,64,-23,36,24.0,2.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=simoes,br&APPID=658432372d775e19d42e7c70280b22af",simoes,simoesbr,0,br,48,-8,-41,29.04,7.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=berga,es&APPID=658432372d775e19d42e7c70280b22af",berga,bergaes,40,es,60,42,2,22.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pokhara,np&APPID=658432372d775e19d42e7c70280b22af",pokhara,pokharanp,24,np,75,32,86,15.59,1.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=quang ngai,vn&APPID=658432372d775e19d42e7c70280b22af",quang ngai,quang ngaivn,0,vn,88,16,110,23.59,0.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=darab,ir&APPID=658432372d775e19d42e7c70280b22af",darab,darabir,20,ir,16,29,55,29.39,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hastings,us&APPID=658432372d775e19d42e7c70280b22af",hastings,hastingsus,1,us,68,40,-98,23.0,7.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vanimo,pg&APPID=658432372d775e19d42e7c70280b22af",vanimo,vanimopg,44,pg,100,3,141,27.99,2.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nagapattinam,in&APPID=658432372d775e19d42e7c70280b22af",nagapattinam,nagapattinamin,0,in,57,11,81,32.54,6.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gryfice,pl&APPID=658432372d775e19d42e7c70280b22af",gryfice,gryficepl,0,pl,39,54,15,29.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=inongo,cd&APPID=658432372d775e19d42e7c70280b22af",inongo,inongocd,8,cd,60,-2,19,30.54,0.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nakhon thai,th&APPID=658432372d775e19d42e7c70280b22af",nakhon thai,nakhon thaith,64,th,98,17,101,21.39,0.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=buncrana,ie&APPID=658432372d775e19d42e7c70280b22af",buncrana,buncranaie,20,ie,64,56,-8,21.0,7.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ajaccio,fr&APPID=658432372d775e19d42e7c70280b22af",ajaccio,ajacciofr,90,fr,78,42,9,26.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nong phai,th&APPID=658432372d775e19d42e7c70280b22af",nong phai,nong phaith,64,th,98,16,101,23.54,2.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ponta delgada,pt&APPID=658432372d775e19d42e7c70280b22af",ponta delgada,ponta delgadapt,40,pt,59,36,-26,19.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cayenne,gf&APPID=658432372d775e19d42e7c70280b22af",cayenne,cayennegf,40,gf,66,9,-44,31.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=barvinkove,ua&APPID=658432372d775e19d42e7c70280b22af",barvinkove,barvinkoveua,0,ua,32,49,37,24.59,2.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=barabai,id&APPID=658432372d775e19d42e7c70280b22af",barabai,barabaiid,48,id,90,-3,117,24.69,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=wajir,ke&APPID=658432372d775e19d42e7c70280b22af",wajir,wajirke,40,ke,38,2,41,33.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=la ronge,ca&APPID=658432372d775e19d42e7c70280b22af",la ronge,la rongeca,75,ca,71,63,-104,11.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=naberera,tz&APPID=658432372d775e19d42e7c70280b22af",naberera,nabereratz,0,tz,47,-4,37,25.09,5.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rock springs,us&APPID=658432372d775e19d42e7c70280b22af",rock springs,rock springsus,1,us,59,42,-109,16.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san juan,ar&APPID=658432372d775e19d42e7c70280b22af",san juan,san juanar,88,ar,72,-31,-69,9.29,2.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ozark,us&APPID=658432372d775e19d42e7c70280b22af",ozark,ozarkus,75,us,54,37,-93,27.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shizuishan,cn&APPID=658432372d775e19d42e7c70280b22af",shizuishan,shizuishancn,0,cn,30,39,106,12.09,1.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kruisfontein,za&APPID=658432372d775e19d42e7c70280b22af",kruisfontein,kruisfonteinza,56,za,66,-67,27,18.89,2.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=buraydah,sa&APPID=658432372d775e19d42e7c70280b22af",buraydah,buraydahsa,20,sa,15,24,43,41.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=goundi,td&APPID=658432372d775e19d42e7c70280b22af",goundi,gounditd,32,td,79,10,18,29.09,0.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lodja,cd&APPID=658432372d775e19d42e7c70280b22af",lodja,lodjacd,44,cd,81,-2,22,26.49,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jati,id&APPID=658432372d775e19d42e7c70280b22af",jati,jatiid,12,id,94,-6,111,24.09,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=casablanca,ma&APPID=658432372d775e19d42e7c70280b22af",casablanca,casablancama,20,ma,64,35,-8,22.0,8.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=alice springs,au&APPID=658432372d775e19d42e7c70280b22af",alice springs,alice springsau,36,au,56,-20,132,7.0,1.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mokobeng,bw&APPID=658432372d775e19d42e7c70280b22af",mokobeng,mokobengbw,12,bw,35,-23,28,24.29,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fortuna,us&APPID=658432372d775e19d42e7c70280b22af",fortuna,fortunaus,90,us,87,40,-127,12.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=russell,nz&APPID=658432372d775e19d42e7c70280b22af",russell,russellnz,44,nz,82,-31,177,2.54,1.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sao jose da coroa grande,br&APPID=658432372d775e19d42e7c70280b22af",sao jose da coroa grande,sao jose da coroa grandebr,36,br,83,-10,-32,27.44,5.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kindu,cd&APPID=658432372d775e19d42e7c70280b22af",kindu,kinducd,32,cd,74,-1,27,27.84,0.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=miles city,us&APPID=658432372d775e19d42e7c70280b22af",miles city,miles cityus,1,us,68,47,-106,20.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=milton,nz&APPID=658432372d775e19d42e7c70280b22af",milton,miltonnz,0,nz,60,-46,170,-3.76,1.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=quelimane,mz&APPID=658432372d775e19d42e7c70280b22af",quelimane,quelimanemz,12,mz,70,-20,37,23.74,2.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=the valley,ai&APPID=658432372d775e19d42e7c70280b22af",the valley,the valleyai,20,ai,62,24,-62,29.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vicente guerrero,mx&APPID=658432372d775e19d42e7c70280b22af",vicente guerrero,vicente guerreromx,5,mx,50,24,-104,25.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=inirida,co&APPID=658432372d775e19d42e7c70280b22af",inirida,iniridaco,68,co,86,4,-67,26.99,0.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=eureka,us&APPID=658432372d775e19d42e7c70280b22af",eureka,eurekaus,90,us,76,41,-130,12.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bongandanga,cd&APPID=658432372d775e19d42e7c70280b22af",bongandanga,bongandangacd,20,cd,82,1,21,28.59,0.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hvide sande,dk&APPID=658432372d775e19d42e7c70280b22af",hvide sande,hvide sandedk,0,dk,39,56,7,28.0,7.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=klaksvik,fo&APPID=658432372d775e19d42e7c70280b22af",klaksvik,klaksvikfo,44,fo,66,79,-6,12.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=samarai,pg&APPID=658432372d775e19d42e7c70280b22af",samarai,samaraipg,92,pg,98,-12,149,26.69,8.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shu,kz&APPID=658432372d775e19d42e7c70280b22af",shu,shukz,8,kz,27,44,73,13.54,7.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kiunga,pg&APPID=658432372d775e19d42e7c70280b22af",kiunga,kiungapg,88,pg,98,-5,139,23.44,0.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=coihaique,cl&APPID=658432372d775e19d42e7c70280b22af",coihaique,coihaiquecl,20,cl,69,-48,-74,4.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=clyde river,ca&APPID=658432372d775e19d42e7c70280b22af",clyde river,clyde riverca,90,ca,86,70,-73,-3.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=guerrero negro,mx&APPID=658432372d775e19d42e7c70280b22af",guerrero negro,guerrero negromx,64,mx,87,17,-127,16.19,3.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=porgera,pg&APPID=658432372d775e19d42e7c70280b22af",porgera,porgerapg,100,pg,99,-5,143,12.44,0.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=quatre cocos,mu&APPID=658432372d775e19d42e7c70280b22af",quatre cocos,quatre cocosmu,40,mu,78,-15,70,23.0,1.5
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kasongo-lunda,cd&APPID=658432372d775e19d42e7c70280b22af",kasongo-lunda,kasongo-lundacd,0,cd,36,-6,16,31.64,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=los llanos de aridane,es&APPID=658432372d775e19d42e7c70280b22af",los llanos de aridane,los llanos de aridanees,75,es,77,26,-24,20.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=koson,uz&APPID=658432372d775e19d42e7c70280b22af",koson,kosonuz,0,uz,23,39,66,24.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cobija,bo&APPID=658432372d775e19d42e7c70280b22af",cobija,cobijabo,75,bo,62,-12,-68,31.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=coos bay,us&APPID=658432372d775e19d42e7c70280b22af",coos bay,coos bayus,1,us,54,43,-125,13.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fuerte olimpo,py&APPID=658432372d775e19d42e7c70280b22af",fuerte olimpo,fuerte olimpopy,12,py,42,-21,-59,30.99,7.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=camacha,pt&APPID=658432372d775e19d42e7c70280b22af",camacha,camachapt,75,pt,60,36,-17,20.0,5.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=coruripe,br&APPID=658432372d775e19d42e7c70280b22af",coruripe,coruripebr,88,br,99,-11,-35,26.14,6.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vestmanna,fo&APPID=658432372d775e19d42e7c70280b22af",vestmanna,vestmannafo,12,fo,66,68,-8,12.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=houma,us&APPID=658432372d775e19d42e7c70280b22af",houma,houmaus,40,us,58,26,-91,31.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mandalgovi,mn&APPID=658432372d775e19d42e7c70280b22af",mandalgovi,mandalgovimn,0,mn,17,43,108,18.79,6.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=paciran,id&APPID=658432372d775e19d42e7c70280b22af",paciran,paciranid,0,id,74,-5,113,25.64,1.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san borja,bo&APPID=658432372d775e19d42e7c70280b22af",san borja,san borjabo,80,bo,100,-15,-67,22.54,1.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hervey bay,au&APPID=658432372d775e19d42e7c70280b22af",hervey bay,hervey bayau,0,au,100,-24,158,17.34,7.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=casper,us&APPID=658432372d775e19d42e7c70280b22af",casper,casperus,1,us,59,43,-106,18.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rosarito,mx&APPID=658432372d775e19d42e7c70280b22af",rosarito,rosaritomx,20,mx,22,32,-118,31.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=najran,sa&APPID=658432372d775e19d42e7c70280b22af",najran,najransa,5,sa,22,17,44,32.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=baneh,ir&APPID=658432372d775e19d42e7c70280b22af",baneh,banehir,32,ir,41,36,46,26.0,1.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=akdepe,tm&APPID=658432372d775e19d42e7c70280b22af",akdepe,akdepetm,0,tm,18,42,59,21.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=qom,ir&APPID=658432372d775e19d42e7c70280b22af",qom,qomir,24,ir,30,35,51,30.84,1.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=velyka lepetykha,ua&APPID=658432372d775e19d42e7c70280b22af",velyka lepetykha,velyka lepetykhaua,0,ua,41,47,34,24.44,3.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=emerald,au&APPID=658432372d775e19d42e7c70280b22af",emerald,emeraldau,0,au,57,-24,144,14.89,5.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=buritizeiro,br&APPID=658432372d775e19d42e7c70280b22af",buritizeiro,buritizeirobr,24,br,61,-17,-45,24.14,2.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ginir,et&APPID=658432372d775e19d42e7c70280b22af",ginir,giniret,36,et,74,6,42,22.54,1.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=clarence town,bs&APPID=658432372d775e19d42e7c70280b22af",clarence town,clarence townbs,0,bs,96,23,-75,26.84,7.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=xuddur,so&APPID=658432372d775e19d42e7c70280b22af",xuddur,xuddurso,80,so,37,6,44,31.94,6.16
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sorland,no&APPID=658432372d775e19d42e7c70280b22af",sorland,sorlandno,0,no,61,73,4,10.0,5.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=flinders,au&APPID=658432372d775e19d42e7c70280b22af",flinders,flindersau,0,au,66,-29,134,10.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=hovd,mn&APPID=658432372d775e19d42e7c70280b22af",hovd,hovdmn,0,mn,24,46,100,15.64,2.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=la romana,do&APPID=658432372d775e19d42e7c70280b22af",la romana,la romanado,40,do,66,17,-69,31.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ugoofaaru,mv&APPID=658432372d775e19d42e7c70280b22af",ugoofaaru,ugoofaarumv,32,mv,97,6,65,29.29,9.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=damaturu,ng&APPID=658432372d775e19d42e7c70280b22af",damaturu,damaturung,8,ng,56,12,12,35.24,1.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nemyriv,ua&APPID=658432372d775e19d42e7c70280b22af",nemyriv,nemyrivua,0,ua,29,49,29,26.0,3.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ahipara,nz&APPID=658432372d775e19d42e7c70280b22af",ahipara,ahiparanz,64,nz,100,-31,167,6.39,0.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=arinos,br&APPID=658432372d775e19d42e7c70280b22af",arinos,arinosbr,32,br,60,-16,-46,24.69,3.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=popondetta,pg&APPID=658432372d775e19d42e7c70280b22af",popondetta,popondettapg,76,pg,96,-8,148,19.94,0.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pangnirtung,ca&APPID=658432372d775e19d42e7c70280b22af",pangnirtung,pangnirtungca,40,ca,92,69,-64,-1.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=helong,cn&APPID=658432372d775e19d42e7c70280b22af",helong,helongcn,56,cn,89,42,129,23.54,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=el terrero,hn&APPID=658432372d775e19d42e7c70280b22af",el terrero,el terrerohn,1,hn,79,14,-87,29.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nelson bay,au&APPID=658432372d775e19d42e7c70280b22af",nelson bay,nelson bayau,12,au,70,-34,153,9.0,7.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mana,gf&APPID=658432372d775e19d42e7c70280b22af",mana,managf,88,gf,90,7,-54,25.49,1.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=maine-soroa,ne&APPID=658432372d775e19d42e7c70280b22af",maine-soroa,maine-soroane,0,ne,24,14,12,39.69,3.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=maniitsoq,gl&APPID=658432372d775e19d42e7c70280b22af",maniitsoq,maniitsoqgl,92,gl,92,64,-54,1.24,7.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tuban,id&APPID=658432372d775e19d42e7c70280b22af",tuban,tubanid,0,id,74,-7,112,25.64,1.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=madang,pg&APPID=658432372d775e19d42e7c70280b22af",madang,madangpg,88,pg,100,-4,147,24.74,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=calabozo,ve&APPID=658432372d775e19d42e7c70280b22af",calabozo,calabozove,0,ve,48,8,-68,33.44,6.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sitka,us&APPID=658432372d775e19d42e7c70280b22af",sitka,sitkaus,0,us,100,50,-137,20.74,2.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=paita,pe&APPID=658432372d775e19d42e7c70280b22af",paita,paitape,0,pe,69,-7,-85,24.0,8.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=necochea,ar&APPID=658432372d775e19d42e7c70280b22af",necochea,necocheaar,36,ar,99,-48,-55,13.24,6.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pirenopolis,br&APPID=658432372d775e19d42e7c70280b22af",pirenopolis,pirenopolisbr,20,br,46,-16,-49,23.0,4.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tete,mz&APPID=658432372d775e19d42e7c70280b22af",tete,tetemz,0,mz,39,-16,34,28.14,2.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=singaraja,id&APPID=658432372d775e19d42e7c70280b22af",singaraja,singarajaid,12,id,100,-7,116,21.39,0.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=si sa ket,th&APPID=658432372d775e19d42e7c70280b22af",si sa ket,si sa ketth,75,th,94,15,104,26.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=leh,in&APPID=658432372d775e19d42e7c70280b22af",leh,lehin,12,in,100,36,81,-5.21,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=yanam,in&APPID=658432372d775e19d42e7c70280b22af",yanam,yanamin,8,in,84,14,85,30.29,4.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bardiyah,ly&APPID=658432372d775e19d42e7c70280b22af",bardiyah,bardiyahly,0,ly,79,31,25,23.79,4.46
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kanchanaburi,th&APPID=658432372d775e19d42e7c70280b22af",kanchanaburi,kanchanaburith,76,th,92,14,99,24.89,2.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=odienne,ci&APPID=658432372d775e19d42e7c70280b22af",odienne,odienneci,24,ci,87,9,-8,27.39,1.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=roald,no&APPID=658432372d775e19d42e7c70280b22af",roald,roaldno,0,no,64,75,1,27.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=arcata,us&APPID=658432372d775e19d42e7c70280b22af",arcata,arcataus,90,us,76,42,-125,12.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=daru,pg&APPID=658432372d775e19d42e7c70280b22af",daru,darupg,88,pg,93,-10,145,25.84,8.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=waddan,ly&APPID=658432372d775e19d42e7c70280b22af",waddan,waddanly,32,ly,17,29,17,37.39,2.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mulege,mx&APPID=658432372d775e19d42e7c70280b22af",mulege,mulegemx,12,mx,51,26,-113,22.14,1.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mantua,cu&APPID=658432372d775e19d42e7c70280b22af",mantua,mantuacu,80,cu,96,24,-85,25.19,2.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=linxia,cn&APPID=658432372d775e19d42e7c70280b22af",linxia,linxiacn,20,cn,80,34,101,6.94,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ciudad bolivar,ve&APPID=658432372d775e19d42e7c70280b22af",ciudad bolivar,ciudad bolivarve,0,ve,50,5,-64,31.89,5.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=fengrun,cn&APPID=658432372d775e19d42e7c70280b22af",fengrun,fengruncn,0,cn,49,40,118,19.14,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bogo,cm&APPID=658432372d775e19d42e7c70280b22af",bogo,bogocm,20,cm,44,11,15,35.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=grindavik,is&APPID=658432372d775e19d42e7c70280b22af",grindavik,grindavikis,75,is,75,60,-24,10.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=basco,ph&APPID=658432372d775e19d42e7c70280b22af",basco,bascoph,0,ph,93,21,122,30.59,4.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sinnamary,gf&APPID=658432372d775e19d42e7c70280b22af",sinnamary,sinnamarygf,88,gf,100,11,-50,26.09,3.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=saurimo,ao&APPID=658432372d775e19d42e7c70280b22af",saurimo,saurimoao,40,ao,19,-9,20,31.0,1.51
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sao joao da barra,br&APPID=658432372d775e19d42e7c70280b22af",sao joao da barra,sao joao da barrabr,75,br,78,-32,-27,24.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san martin,ar&APPID=658432372d775e19d42e7c70280b22af",san martin,san martinar,92,ar,94,-33,-68,20.09,5.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=salinopolis,br&APPID=658432372d775e19d42e7c70280b22af",salinopolis,salinopolisbr,8,br,97,5,-45,28.89,4.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=doctor arroyo,mx&APPID=658432372d775e19d42e7c70280b22af",doctor arroyo,doctor arroyomx,0,mx,62,24,-100,24.94,1.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=zhangjiakou,cn&APPID=658432372d775e19d42e7c70280b22af",zhangjiakou,zhangjiakoucn,0,cn,61,43,116,11.09,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=sisimiut,gl&APPID=658432372d775e19d42e7c70280b22af",sisimiut,sisimiutgl,76,gl,95,67,-58,2.39,0.66
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=manaure,co&APPID=658432372d775e19d42e7c70280b22af",manaure,manaureco,40,co,52,13,-72,33.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=snasa,no&APPID=658432372d775e19d42e7c70280b22af",snasa,snasano,0,no,46,63,13,21.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lac du bonnet,ca&APPID=658432372d775e19d42e7c70280b22af",lac du bonnet,lac du bonnetca,56,ca,58,51,-96,24.79,4.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=berlevag,no&APPID=658432372d775e19d42e7c70280b22af",berlevag,berlevagno,75,no,80,78,30,5.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=douentza,ml&APPID=658432372d775e19d42e7c70280b22af",douentza,douentzaml,0,ml,40,15,-2,38.74,1.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=caraquet,ca&APPID=658432372d775e19d42e7c70280b22af",caraquet,caraquetca,40,ca,86,48,-65,16.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=puerto carreno,co&APPID=658432372d775e19d42e7c70280b22af",puerto carreno,puerto carrenoco,40,co,62,6,-67,31.0,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=iqaluit,ca&APPID=658432372d775e19d42e7c70280b22af",iqaluit,iqaluitca,90,ca,100,59,-68,0.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mastic beach,us&APPID=658432372d775e19d42e7c70280b22af",mastic beach,mastic beachus,1,us,77,38,-71,22.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ulaangom,mn&APPID=658432372d775e19d42e7c70280b22af",ulaangom,ulaangommn,12,mn,33,50,93,10.09,1.56
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=butler,us&APPID=658432372d775e19d42e7c70280b22af",butler,butlerus,75,us,65,41,-80,29.0,2.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=abeche,td&APPID=658432372d775e19d42e7c70280b22af",abeche,abechetd,20,td,20,14,21,39.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=barra do garcas,br&APPID=658432372d775e19d42e7c70280b22af",barra do garcas,barra do garcasbr,0,br,45,-15,-53,30.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=champasak,la&APPID=658432372d775e19d42e7c70280b22af",champasak,champasakla,12,la,86,14,106,26.64,1.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=masingbi,sl&APPID=658432372d775e19d42e7c70280b22af",masingbi,masingbisl,44,sl,77,9,-12,29.89,2.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pisco,pe&APPID=658432372d775e19d42e7c70280b22af",pisco,piscope,90,pe,93,-22,-90,17.0,3.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=varkaus,fi&APPID=658432372d775e19d42e7c70280b22af",varkaus,varkausfi,0,fi,44,62,28,16.0,5.7
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=leczyca,pl&APPID=658432372d775e19d42e7c70280b22af",leczyca,leczycapl,0,pl,47,52,19,27.0,4.6
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=waipawa,nz&APPID=658432372d775e19d42e7c70280b22af",waipawa,waipawanz,0,nz,88,-46,178,2.04,3.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=chudniv,ua&APPID=658432372d775e19d42e7c70280b22af",chudniv,chudnivua,0,ua,37,50,28,27.04,2.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=wakkanai,jp&APPID=658432372d775e19d42e7c70280b22af",wakkanai,wakkanaijp,20,jp,90,45,140,12.54,7.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=khunti,in&APPID=658432372d775e19d42e7c70280b22af",khunti,khuntiin,40,in,83,23,85,23.0,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shubarkuduk,kz&APPID=658432372d775e19d42e7c70280b22af",shubarkuduk,shubarkudukkz,0,kz,27,48,56,20.74,7.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=luangwa,zm&APPID=658432372d775e19d42e7c70280b22af",luangwa,luangwazm,8,zm,45,-16,31,24.14,1.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=celestun,mx&APPID=658432372d775e19d42e7c70280b22af",celestun,celestunmx,0,mx,95,22,-93,27.94,4.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=golden,ca&APPID=658432372d775e19d42e7c70280b22af",golden,goldenca,88,ca,98,52,-117,2.24,0.91
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=cockburn town,tc&APPID=658432372d775e19d42e7c70280b22af",cockburn town,cockburn towntc,68,tc,96,22,-70,26.49,7.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=nanortalik,gl&APPID=658432372d775e19d42e7c70280b22af",nanortalik,nanortalikgl,92,gl,95,56,-39,1.59,6.81
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ligayan,ph&APPID=658432372d775e19d42e7c70280b22af",ligayan,ligayanph,92,ph,100,3,120,29.19,1.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=killybegs,ie&APPID=658432372d775e19d42e7c70280b22af",killybegs,killybegsie,0,ie,58,58,-11,20.59,5.01
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pedernales,do&APPID=658432372d775e19d42e7c70280b22af",pedernales,pedernalesdo,40,do,70,15,-72,30.0,6.2
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=dhidhdhoo,mv&APPID=658432372d775e19d42e7c70280b22af",dhidhdhoo,dhidhdhoomv,12,mv,100,8,73,28.29,8.06
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tysmenytsya,ua&APPID=658432372d775e19d42e7c70280b22af",tysmenytsya,tysmenytsyaua,0,ua,34,49,25,27.0,3.0
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=pampa,us&APPID=658432372d775e19d42e7c70280b22af",pampa,pampaus,1,us,61,36,-101,26.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=kupang,id&APPID=658432372d775e19d42e7c70280b22af",kupang,kupangid,0,id,87,-13,124,26.39,7.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tual,id&APPID=658432372d775e19d42e7c70280b22af",tual,tualid,88,id,100,-5,134,27.34,6.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=mecca,sa&APPID=658432372d775e19d42e7c70280b22af",mecca,meccasa,0,sa,25,21,42,38.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=debre tabor,et&APPID=658432372d775e19d42e7c70280b22af",debre tabor,debre taboret,68,et,69,12,38,20.04,2.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gimli,ca&APPID=658432372d775e19d42e7c70280b22af",gimli,gimlica,76,ca,84,52,-97,20.09,3.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=jalu,ly&APPID=658432372d775e19d42e7c70280b22af",jalu,jaluly,0,ly,22,29,22,36.89,0.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=golub-dobrzyn,pl&APPID=658432372d775e19d42e7c70280b22af",golub-dobrzyn,golub-dobrzynpl,0,pl,34,53,19,28.89,3.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=danielskuil,za&APPID=658432372d775e19d42e7c70280b22af",danielskuil,danielskuilza,0,za,24,-28,24,17.34,5.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=bar harbor,us&APPID=658432372d775e19d42e7c70280b22af",bar harbor,bar harborus,1,us,39,44,-68,21.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=san carlos de bariloche,ar&APPID=658432372d775e19d42e7c70280b22af",san carlos de bariloche,san carlos de barilochear,90,ar,92,-41,-70,0.0,0.76
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=altay,cn&APPID=658432372d775e19d42e7c70280b22af",altay,altaycn,0,cn,41,47,90,6.79,1.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=gotsu,jp&APPID=658432372d775e19d42e7c70280b22af",gotsu,gotsujp,88,jp,94,37,131,16.94,2.11
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=rubiataba,br&APPID=658432372d775e19d42e7c70280b22af",rubiataba,rubiatababr,48,br,50,-15,-50,26.59,4.21
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vestmannaeyjar,is&APPID=658432372d775e19d42e7c70280b22af",vestmannaeyjar,vestmannaeyjaris,75,is,100,57,-18,9.0,2.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shingu,jp&APPID=658432372d775e19d42e7c70280b22af",shingu,shingujp,92,jp,100,33,136,19.74,3.31
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=santiago,ph&APPID=658432372d775e19d42e7c70280b22af",santiago,santiagoph,32,ph,88,7,129,24.89,0.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=ylivieska,fi&APPID=658432372d775e19d42e7c70280b22af",ylivieska,ylivieskafi,0,fi,33,64,24,16.94,5.61
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=coahuayana,mx&APPID=658432372d775e19d42e7c70280b22af",coahuayana,coahuayanamx,0,mx,50,-1,-113,27.24,1.36
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=almeria,es&APPID=658432372d775e19d42e7c70280b22af",almeria,almeriaes,0,es,56,36,-2,23.0,9.3
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=shangrao,cn&APPID=658432372d775e19d42e7c70280b22af",shangrao,shangraocn,92,cn,98,29,118,20.69,0.86
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=valer,no&APPID=658432372d775e19d42e7c70280b22af",valer,valerno,0,no,27,61,12,26.79,1.41
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=tongliao,cn&APPID=658432372d775e19d42e7c70280b22af",tongliao,tongliaocn,0,cn,72,43,122,13.54,2.26
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=lydenburg,za&APPID=658432372d775e19d42e7c70280b22af",lydenburg,lydenburgza,64,za,63,-25,30,16.09,0.71
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=livingston,us&APPID=658432372d775e19d42e7c70280b22af",livingston,livingstonus,40,us,62,45,-110,30.0,3.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=north platte,us&APPID=658432372d775e19d42e7c70280b22af",north platte,north platteus,1,us,68,40,-101,22.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=awbari,ly&APPID=658432372d775e19d42e7c70280b22af",awbari,awbarily,0,ly,9,28,12,41.24,1.96
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=vila franca do campo,pt&APPID=658432372d775e19d42e7c70280b22af",vila franca do campo,vila franca do campopt,40,pt,59,34,-23,19.0,5.1
+"https://api.openweathermap.org/data/2.5/weather?units=metric&q=wanning,cn&APPID=658432372d775e19d42e7c70280b22af",wanning,wanningcn,0,cn,100,18,111,29.49,2.51
